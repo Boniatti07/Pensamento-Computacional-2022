@@ -5,12 +5,24 @@ p {
 
 }
 
+h1 {
+    text-align: center;
+}
+
 body {
     background: #CCCCCC
 }
 
 em strong {
     color: red;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+#banner {
+    width: 100%;
 }
 
 
