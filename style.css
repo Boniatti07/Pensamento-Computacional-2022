@@ -1,64 +1,48 @@
-
-p {
-
-    text-align: center;
-
-}
-
-h1 {
-    text-align: center;
-    height: 150px;
-    border: 10px solid #000000;
-    padding-top: 20px;
-    margin-left: 15px;
-}
-
-body {
-
-}
-
-em strong {
-    color: red;
-}
-
-#missao {
-    font-size: 20px;
-}
-
 #banner {
-    width: 100%;
+	width:100%;
 }
 
-.principal {
-    background: #CCCCCC;
-    padding: 30px;
-}
-
-.beneficios {
-    background: #FFFFFF;
-    padding: 20px;
-}
-
-.itens {
-    font-style: italic;
-}
-
-.imagembeneficios {
-    width: 50%;
-}
-
-ul {
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-right: 15%;
-}
-
-.titulo-centralizado {
-    text-align: center
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
 }
 
 .titulo-principal {
-    padding-left: 20px;
+	padding-left: 20px;
 }
 
+.titulo-centralizado {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #FF0000;
+}
+
+.itens {
+	font-style: italic
+}
+
+.beneficios {
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagembeneficios {
+	width: 50%;
+}
